@@ -1,2 +1,2 @@
-# Alucard Selfbot Official Page
- - Dev: ♡**xanthe**♡, fweak
+# Idler Discord Bot website
+ - Dev: ♡**LeYesnt**♡
